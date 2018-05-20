@@ -1,0 +1,3 @@
+[submodule "src/rn-common-components"]
+	path = src/rn-common-components
+	url = git@github.com:ori-levi/rn-common-components.git
