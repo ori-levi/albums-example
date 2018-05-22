@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppRegistry, View } from 'react-native';
-import Header from './src/rn-common-components/Header';
+import { Header } from './src/react-native-common';
 import AlbumList from './src/components/AlbumList';
 
 const App = () => (
